@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 I have a strong interest in AI and ML, with a focus on computer vision. Currently, I'm looking to broaden my expertise by delving into the realm of NLP. As a web developer, I leverage HTML, CSS, JavaScript, React, and Vue for my projects. Additionally, I'm venturing into game development, actively learning Godot and UE5 to enhance my skills in this exciting field. I also enjoy actively participating in competitive programming to continuously sharpen my problem-solving abilities.
 
 
